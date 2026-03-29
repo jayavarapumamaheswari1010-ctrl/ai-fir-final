@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AI FIR</string>
+    <string name="title_activity_main">AI FIR</string>
+    <string name="package_name">com.aifir.app</string>
+    <string name="custom_url_scheme">com.aifir.app</string>
+</resources>
